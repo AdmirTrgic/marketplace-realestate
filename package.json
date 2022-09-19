@@ -3,7 +3,7 @@
   "name": "marketplace-realestate",
   "version": "0.1.0",
   "engines": {
-    "node": "18.x"
+    "node": "16.14.0"
   },
   "private": true,
   "dependencies": {
