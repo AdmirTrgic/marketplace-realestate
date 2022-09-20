@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/AdmirTrgic/marketplace-realestate/static/css/main.5a69ec27.css",
-    "main.js": "/AdmirTrgic/marketplace-realestate/static/js/main.dba1c1cc.js",
-    "static/js/787.3613e9ac.chunk.js": "/AdmirTrgic/marketplace-realestate/static/js/787.3613e9ac.chunk.js",
+    "main.css": "/AdmirTrgic/marketplace-realestate/static/css/main.dcc73a41.css",
+    "main.js": "/AdmirTrgic/marketplace-realestate/static/js/main.4d3df6c8.js",
+    "static/js/915.b5f027d1.chunk.js": "/AdmirTrgic/marketplace-realestate/static/js/915.b5f027d1.chunk.js",
     "static/media/sellCategoryImage.jpg": "/AdmirTrgic/marketplace-realestate/static/media/sellCategoryImage.c4d28ee7217d692d13fb.jpg",
     "static/media/rentCategoryImage.jpg": "/AdmirTrgic/marketplace-realestate/static/media/rentCategoryImage.cd9f015021c041d9ad87.jpg",
     "static/media/googleIcon.svg": "/AdmirTrgic/marketplace-realestate/static/media/googleIcon.a2a9c863d781c3e8abab4e7390cde6cb.svg",
@@ -21,12 +21,12 @@
     "static/media/deleteIcon.svg": "/AdmirTrgic/marketplace-realestate/static/media/deleteIcon.a53e22036f5f02bda3f291072d6c5f80.svg",
     "static/media/keyboardArrowRightIcon.svg": "/AdmirTrgic/marketplace-realestate/static/media/keyboardArrowRightIcon.8cee54bec29003f4c3faa8f2acfa6de8.svg",
     "static/media/homeIcon.svg": "/AdmirTrgic/marketplace-realestate/static/media/homeIcon.09f28a7193ed1624e778ad88fc51ab56.svg",
-    "main.5a69ec27.css.map": "/AdmirTrgic/marketplace-realestate/static/css/main.5a69ec27.css.map",
-    "main.dba1c1cc.js.map": "/AdmirTrgic/marketplace-realestate/static/js/main.dba1c1cc.js.map",
-    "787.3613e9ac.chunk.js.map": "/AdmirTrgic/marketplace-realestate/static/js/787.3613e9ac.chunk.js.map"
+    "main.dcc73a41.css.map": "/AdmirTrgic/marketplace-realestate/static/css/main.dcc73a41.css.map",
+    "main.4d3df6c8.js.map": "/AdmirTrgic/marketplace-realestate/static/js/main.4d3df6c8.js.map",
+    "915.b5f027d1.chunk.js.map": "/AdmirTrgic/marketplace-realestate/static/js/915.b5f027d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a69ec27.css",
-    "static/js/main.dba1c1cc.js"
+    "static/css/main.dcc73a41.css",
+    "static/js/main.4d3df6c8.js"
   ]
 }
